@@ -1,14 +1,10 @@
 <html>
 <head>
-<title> 
-index
-</title> 
+<title>page3</title> 
 </head>
 <body>
 Главная страница
 <br><br>
 <a href="page.html">текст</a>
-<br>
-<a href="index.html">текст</a>
 </body>
 </html>
