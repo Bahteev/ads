@@ -7,8 +7,6 @@ index
 <body>
 Главная страница
 <br><br>
-<a href="page.html">текст</a>
-<br>
-<a href="index.html">текст</a>
+<a href="XD.html">текст</a>
 </body>
 </html>
