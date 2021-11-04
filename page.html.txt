@@ -8,7 +8,6 @@ index
 Главная страница
 <br><br>
 <a href="page.html">текст</a>
-<br>
 <a href="index.html">текст</a>
 </body>
 </html>
